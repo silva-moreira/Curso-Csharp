@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fddf1d73-e43f-4cf3-a7dd-f06dee68e9d0": {
+      "ProjectGuid": "fddf1d73-e43f-4cf3-a7dd-f06dee68e9d0",
+      "DisplayName": "Exercicio-2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
