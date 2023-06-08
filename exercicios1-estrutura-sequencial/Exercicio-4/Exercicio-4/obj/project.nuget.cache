@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "x1EE87lNf9LUS7CoJc2WtrUECmEHZnDuGxYY2S9U5qqoxKy0SxVVisjLWK0W8N3o3OpmOWmWtAUz8vsBRUIaww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOAO\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\Exercicio-4.csproj",
+=======
+  "dgSpecHash": "VFf8zaJ9g8KjXkylakiitmn70BuXdb5sTZJ4+KsUHKmBoj8zZ6wmzq/ZhwnNguQG4yVSM1t4H77VGc+TXiAJ7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joão vitor\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\Exercicio-4.csproj",
+>>>>>>> de6b5ab0326211d55eaf246002fccf9c83ce537e
+  "expectedPackageFiles": [],
+  "logs": []
+}
