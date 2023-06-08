@@ -1,0 +1,15 @@
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\bin\Debug\net6.0\Exercicio-2.exe
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\bin\Debug\net6.0\Exercicio-2.deps.json
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\bin\Debug\net6.0\Exercicio-2.runtimeconfig.json
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\bin\Debug\net6.0\Exercicio-2.dll
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\bin\Debug\net6.0\ref\Exercicio-2.dll
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\bin\Debug\net6.0\Exercicio-2.pdb
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.csproj.AssemblyReference.cache
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.AssemblyInfoInputs.cache
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.AssemblyInfo.cs
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.csproj.CoreCompileInputs.cache
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.dll
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\ref\Exercicio-2.dll
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.pdb
+C:\Users\JOAO\Documents\GitHub\Curso-Csharp\exercicios2-estrutura-condicional\Exercicio-2\Exercicio-2\Exercicio-2\obj\Debug\net6.0\Exercicio-2.genruntimeconfig.cache
