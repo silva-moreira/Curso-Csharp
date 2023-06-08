@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\JOAO\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\Exercicio-4.csproj": {}
   },
   "projects": {
@@ -19,6 +20,25 @@
         ],
         "configFilePaths": [
           "C:\\Users\\JOAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\joão vitor\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\Exercicio-4.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joão vitor\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\Exercicio-4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joão vitor\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\Exercicio-4.csproj",
+        "projectName": "Exercicio-4",
+        "projectPath": "C:\\Users\\joão vitor\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\Exercicio-4.csproj",
+        "packagesPath": "C:\\Users\\joão vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joão vitor\\Documents\\GitHub\\Curso-Csharp\\exercicios1-estrutura-sequencial\\Exercicio-4\\Exercicio-4\\Exercicio-4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joão vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> de6b5ab0326211d55eaf246002fccf9c83ce537e
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,6 +47,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> de6b5ab0326211d55eaf246002fccf9c83ce537e
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +74,12 @@
             "net47",
             "net471",
             "net472",
+<<<<<<< HEAD
             "net48"
+=======
+            "net48",
+            "net481"
+>>>>>>> de6b5ab0326211d55eaf246002fccf9c83ce537e
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,7 +88,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.116\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+>>>>>>> de6b5ab0326211d55eaf246002fccf9c83ce537e
         }
       }
     }
